@@ -6,15 +6,15 @@ function dev(name, age, work) {
         this.age = age;
         this.work = work;
       }
-      let jhonnyBorges = new dev('Jhonny Borges', 37, 'DevOps Engineer and Senior Infrastructure Analyst');
+      let jhonnyBorges = new dev('Jhonny Borges', 37, 'DevOps Engineer, VMware Architect and Senior Infrastructure Analyst');
       console.log(jhonnyBorges);
 ```
 
-### Sobre Mim
+### About Me
 <p>
     A results-driven DevOps who transforms infrastructure bottlenecks into high-velocity delivery pipelines. With a decade of experience in mission-critical environments, I architect cloud-native solutions that marry enterprise reliability with startup agility.
 <p>
-    Sempre trabalhei na área de informática e possuo espírito empreendedor, possuo facilidade de trabalhar em grupos, bom relacionamento com as pessoas, responsabilidade e espírito de liderança. 
+    Worked in various positions, including Senior Infrastructure Analyst, Virtualization Manager and Solutions Architect. He combines certifications (VCAP-DCV, LPIC-2) with a passion for creating resilient systems that generate efficiency. 
 
 ### Principais Skills:
 
