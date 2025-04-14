@@ -6,13 +6,13 @@ function dev(name, age, work) {
         this.age = age;
         this.work = work;
       }
-      let jhonnyBorges = new dev('Jhonny Borges', 34, 'Front-end Developer and Senior Infrastructure Analyst');
+      let jhonnyBorges = new dev('Jhonny Borges', 37, 'DevOps Engineer and Senior Infrastructure Analyst');
       console.log(jhonnyBorges);
 ```
 
 ### Sobre Mim
 <p>
-    Programador, Desenvolvedor Front-end e Analista de Infraestrutura Sênior. Formado em Redes de Computadores (UCB-DF) e Certificações de Infraestrutura (LPI, Comptia, VMware, Azure). Gosto de Tocar Violão e Curtir Minha Família nas horas vagas.
+    Programador,  e Analista de Infraestrutura Sênior. Formado em Redes de Computadores (UCB-DF) e Certificações de Infraestrutura (LPI, Comptia, VMware, Azure). Gosto de Tocar Violão e Curtir Minha Família nas horas vagas.
 <p>
     Sempre trabalhei na área de informática e possuo espírito empreendedor, possuo facilidade de trabalhar em grupos, bom relacionamento com as pessoas, responsabilidade e espírito de liderança. 
 
