@@ -12,7 +12,7 @@ function dev(name, age, work) {
 
 ### Sobre Mim
 <p>
-    Programador,  e Analista de Infraestrutura Sênior. Formado em Redes de Computadores (UCB-DF) e Certificações de Infraestrutura (LPI, Comptia, VMware, Azure). Gosto de Tocar Violão e Curtir Minha Família nas horas vagas.
+    A results-driven DevOps who transforms infrastructure bottlenecks into high-velocity delivery pipelines. With a decade of experience in mission-critical environments, I architect cloud-native solutions that marry enterprise reliability with startup agility.
 <p>
     Sempre trabalhei na área de informática e possuo espírito empreendedor, possuo facilidade de trabalhar em grupos, bom relacionamento com as pessoas, responsabilidade e espírito de liderança. 
 
