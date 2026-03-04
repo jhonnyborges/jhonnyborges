@@ -29,16 +29,28 @@ I specialize in transforming complex infrastructure challenges into resilient, a
 
 Building resilient infrastructures and platforms that ensure companies never stop.
 
-### Core Skills
+### ⚙️ Core Skills
 
 ![VMware](https://img.shields.io/badge/-VMware-05122A?style=for-the-badge&logo=vmware)
+![Proxmox](https://img.shields.io/badge/-Proxmox-05122A?style=for-the-badge)
 ![Docker](https://img.shields.io/badge/-Docker-05122A?style=for-the-badge&logo=docker)
 ![Kubernetes](https://img.shields.io/badge/-Kubernetes-05122A?style=for-the-badge&logo=kubernetes)
 ![Terraform](https://img.shields.io/badge/-Terraform-05122A?style=for-the-badge&logo=terraform)
 ![Ansible](https://img.shields.io/badge/-Ansible-05122A?style=for-the-badge&logo=ansible)
+
+---
+
+### 🏗 Infrastructure Stack
+
 ![Linux](https://img.shields.io/badge/-Linux-05122A?style=for-the-badge&logo=linux)
-![AWS](https://img.shields.io/badge/-AWS-05122A?style=for-the-badge&logo=amazon-aws)
-![Azure](https://img.shields.io/badge/-Azure-05122A?style=for-the-badge&logo=microsoft-azure)
+![Windows](https://img.shields.io/badge/-Windows-05122A?style=for-the-badge&logo=windows)
+![ZFS](https://img.shields.io/badge/-ZFS-05122A?style=for-the-badge)
+![pfSense](https://img.shields.io/badge/-pfSense-05122A?style=for-the-badge)
+![Veeam](https://img.shields.io/badge/-Veeam-05122A?style=for-the-badge)
+![AWS](https://img.shields.io/badge/-AWS-05122A?style=for-the-badge&logo=amazonaws)
+![Azure](https://img.shields.io/badge/-Azure-05122A?style=for-the-badge&logo=microsoftazure)
+![Git](https://img.shields.io/badge/-Git-05122A?style=for-the-badge&logo=git)
+![GitLab](https://img.shields.io/badge/-GitLab-05122A?style=for-the-badge&logo=gitlab)
 
 ## 🚀 Projects
 
@@ -51,15 +63,15 @@ Secure file governance platform designed for companies that need compliance, aud
 🔹 **XpertScan**  
 Infrastructure assessment platform that analyzes security, resilience and operational risks.
 
-### GitHub Analytics
+### 📊 GitHub Analytics
 
-<p align="left">
-  <img height="165em" src="https://github-readme-stats.vercel.app/api?username=jhonnyborges&show_icons=true&hide_title=true&include_all_commits=true&count_private=true&theme=github_dark" />
-  <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jhonnyborges&layout=compact&langs_count=8&theme=github_dark" />
+<p align="center">
+  <img height="165em" src="https://github-readme-stats.vercel.app/api?username=jhonnyborges&show_icons=true&theme=transparent&hide_border=true&include_all_commits=true&count_private=true"/>
+  <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jhonnyborges&layout=compact&theme=transparent&hide_border=true"/>
 </p>
 
-<p align="left">
-  <img height="165em" src="https://github-readme-streak-stats.herokuapp.com/?user=jhonnyborges&theme=github-dark" />
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=jhonnyborges&theme=transparent&hide_border=true"/>
 </p>
 
 ### Jhonny Borges on social media:
