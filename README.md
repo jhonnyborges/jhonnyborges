@@ -78,9 +78,10 @@ Infrastructure assessment platform that analyzes **security, resilience and oper
 
 # 📊 GitHub Analytics
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=jhonnyborges&show_icons=true&theme=tokyonight&hide_border=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=jhonnyborges&layout=compact&theme=tokyonight&hide_border=true)
+<p align="left">
+  <img height="145em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=jhonnyborges&show_icons=true&theme=tokyonight"/>
+  <img height="145em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=jhonnyborges&layout=compact&langs_count=8&theme=tokyonight"/>
+</p>
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=jhonnyborges&theme=tokyonight&hide_border=true)
 
