@@ -6,7 +6,7 @@ function dev(name, age, work) {
         this.age = age;
         this.work = work;
       }
-      let jhonnyBorges = new dev('Jhonny Borges', 37, 'DevOps Engineer, VMware Architect and Senior Infrastructure Analyst');
+      let jhonnyBorges = new dev('Jhonny Borges', 38, 'DevOps Engineer, VMware Architect and Senior Infrastructure Analyst');
       console.log(jhonnyBorges);
 ```
 
@@ -60,7 +60,7 @@ function dev(name, age, work) {
 
 ### Jhonny Borges on social media:
 
-<a href="https://www.linkedin.com/in/jhonny-andreyv-borges-mendoza/"><img src="https://img.shields.io/badge/jhonnyborges-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="https://www.linkedin.com/in/jhonny-borges/"><img src="https://img.shields.io/badge/jhonnyborges-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 <a href="mailto:jhonny.andreyv@gmail.com"><img src="https://img.shields.io/badge/-jhonny.andreyv@gmail.com-0078D4?style=for-the-badge&logo=gmail&logoColor=white"/>
     </a>
-<a href="https://instagram.com/jhonnyborgesof"><img src="https://img.shields.io/badge/-@jhonnyborgesof-E4405F?style=for-the-badge&logo=Instagram&logoColor=white"/></a>
+<a href="https://instagram.com/jhonnyborgesof"><img src="https://img.shields.io/badge/-@eu.jhonnyborges-E4405F?style=for-the-badge&logo=Instagram&logoColor=white"/></a>
