@@ -101,26 +101,14 @@ ISO 27001
 
 ---
 
-# 🌐 Connect with me
+## 🌐 Connect with me
 
-<p align="center">
+[![LinkedIn](https://img.shields.io/badge/Professional-Network-05122A?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/jhonny-borges)
 
-<a href="https://linkedin.com/in/jhonny-borges">
-<img src="https://img.shields.io/badge/Professional-Network-05122A?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
+[![Instagram](https://img.shields.io/badge/Social-Media-05122A?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/eu.jhonnyborges)
 
-<a href="https://instagram.com/eu.jhonnyborges">
-<img src="https://img.shields.io/badge/Social-Media-05122A?style=for-the-badge&logo=instagram&logoColor=white"/>
-</a>
+[![Website](https://img.shields.io/badge/Website-InfraXpert-05122A?style=for-the-badge&logo=googlechrome&logoColor=white)](https://infraxpert.com.br)
 
-<a href="https://infraxpert.com.br">
-<img src="https://img.shields.io/badge/Website-InfraXpert-05122A?style=for-the-badge&logo=googlechrome&logoColor=white"/>
-</a>
-
-<a href="mailto:jhonny.mendoza@infraxpert.com.br">
-<img src="https://img.shields.io/badge/Email-Contact-05122A?style=for-the-badge&logo=maildotru&logoColor=white"/>
-</a>
-
-</p>
+[![Email](https://img.shields.io/badge/Email-Contact-05122A?style=for-the-badge&logo=maildotru&logoColor=white)](mailto:jhonny.mendoza@infraxpert.com.br)
 
 
