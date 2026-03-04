@@ -76,17 +76,6 @@ Infrastructure assessment platform that analyzes **security, resilience and oper
 
 ---
 
-# 📊 GitHub Analytics
-
-<p align="left">
-  <img height="145em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=jhonnyborges&show_icons=true&theme=tokyonight"/>
-  <img height="145em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=jhonnyborges&layout=compact&langs_count=8&theme=tokyonight"/>
-</p>
-
-![GitHub Streak](https://streak-stats.demolab.com?user=jhonnyborges&theme=tokyonight&hide_border=true)
-
----
-
 # 🏆 Certifications
 
 VCAP-DCV Design  
@@ -99,6 +88,17 @@ LPIC-1
 LPIC-2  
 ITIL Foundation  
 ISO 27001  
+
+---
+
+# 📊 GitHub Analytics
+
+<p align="left">
+  <img height="145em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=jhonnyborges&show_icons=true&theme=tokyonight"/>
+  <img height="145em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=jhonnyborges&layout=compact&langs_count=8&theme=tokyonight"/>
+</p>
+
+![GitHub Streak](https://streak-stats.demolab.com?user=jhonnyborges&theme=tokyonight&hide_border=true)
 
 ---
 
