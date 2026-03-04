@@ -1,55 +1,55 @@
 # Hi, I'm Jhonny Borges
 
 ```
-function dev(name, age, work) {
-        this.name = name;
-        this.age = age;
-        this.work = work;
-      }
-      let jhonnyBorges = new dev('Jhonny Borges', 38, 'DevOps Engineer, VMware Architect and Senior Infrastructure Analyst');
-      console.log(jhonnyBorges);
+const jhonnyBorges = {
+  role: "Infrastructure Architect & DevOps Engineer",
+  company: "InfraXpert",
+  focus: [
+    "Cloud Infrastructure",
+    "Backup & Disaster Recovery",
+    "Business Continuity",
+    "Automation & DevOps"
+  ],
+  mission: "Building resilient infrastructures for companies that cannot stop."
+}
+
+console.log(jhonnyBorges)
 ```
 
 ### About Me
-<p>
-    A results-driven DevOps who transforms infrastructure bottlenecks into high-velocity delivery pipelines. With a decade of experience in mission-critical environments, I architect cloud-native solutions that marry enterprise reliability with startup agility.
-<p>
-    Worked in various positions, including Senior Infrastructure Analyst, Virtualization Manager and Solutions Architect. He combines certifications (VCAP-DCV, LPIC-2) with a passion for creating resilient systems that generate efficiency. 
 
-### Principais Skills:
+Infrastructure Architect and DevOps Engineer with more than a decade of experience designing, operating and optimizing mission-critical environments.
 
-![HTML](https://img.shields.io/badge/-HTML-05122A?style=for-the-badge&logo=html5)&nbsp;
-![CSS](https://img.shields.io/badge/-CSS-05122A?style=for-the-badge&logo=CSS3&logoColor=1572B6)&nbsp;
-![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=for-the-badge&logo=javascript)&nbsp;
+Founder of **InfraXpert**, where I build platforms focused on **Business Continuity, Backup, Cloud Infrastructure and Data Governance**.
 
-### Ferramentas
+I specialize in transforming complex infrastructure challenges into resilient, automated and scalable systems.
 
-![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=for-the-badge&logo=visual-studio-code&logoColor=007ACC)&nbsp;
-![Git](https://img.shields.io/badge/-Git-05122A?style=for-the-badge&logo=git)&nbsp;
-![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=for-the-badge&logo=github)&nbsp;
-![Photoshop](https://img.shields.io/badge/-Photoshop-05122A?style=for-the-badge&logo=adobe-photoshop)&nbsp;
-![Windows](https://img.shields.io/badge/-Windows-05122A?style=for-the-badge&logo=windows)&nbsp;
-![microsoft-office](https://img.shields.io/badge/-microsoft_azure-05122A?style=for-the-badge&logo=microsoft-azure)&nbsp;
-![Linux](https://img.shields.io/badge/-linux-05122a?style=for-the-badge&logo=linux)&nbsp;
 
-### Conhecimentos nas áreas:
+### 🌎 Mission
 
-![typescript](https://img.shields.io/badge/-typescript-05122A?style=for-the-badge&logo=typescript)&nbsp;
-![Boostrap](https://img.shields.io/badge/-boostrap-05122A?style=for-the-badge&logo=bootstrap)&nbsp;
-![APACHE](https://img.shields.io/badge/-APACHE-05122A?style=for-the-badge&logo=apache)&nbsp;
-![MYSQL](https://img.shields.io/badge/-MYSQL-05122A?style=for-the-badge&logo=MYSQL)&nbsp;
-![Markdown](https://img.shields.io/badge/-Markdown-05122A?style=for-the-badge&logo=markdown)&nbsp;
-![Node.js](https://img.shields.io/badge/-Node.js-05122A?style=for-the-badge&logo=node.js)&nbsp;
+Building resilient infrastructures and platforms that ensure companies never stop.
 
-### Estudando no momento:
+### Core Skills
 
-![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=for-the-badge&logo=javascript)&nbsp;
+![VMware](https://img.shields.io/badge/-VMware-05122A?style=for-the-badge&logo=vmware)
+![Docker](https://img.shields.io/badge/-Docker-05122A?style=for-the-badge&logo=docker)
+![Kubernetes](https://img.shields.io/badge/-Kubernetes-05122A?style=for-the-badge&logo=kubernetes)
+![Terraform](https://img.shields.io/badge/-Terraform-05122A?style=for-the-badge&logo=terraform)
+![Ansible](https://img.shields.io/badge/-Ansible-05122A?style=for-the-badge&logo=ansible)
+![Linux](https://img.shields.io/badge/-Linux-05122A?style=for-the-badge&logo=linux)
+![AWS](https://img.shields.io/badge/-AWS-05122A?style=for-the-badge&logo=amazon-aws)
+![Azure](https://img.shields.io/badge/-Azure-05122A?style=for-the-badge&logo=microsoft-azure)
 
-### Áreas de Interesse:
+## 🚀 Projects
 
-![React Native](https://img.shields.io/badge/-React_native-05122A?style=for-the-badge&logo=react)&nbsp;
-![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=for-the-badge&logo=javascript)&nbsp;
-![Boostrap](https://img.shields.io/badge/-boostrap-05122A?style=for-the-badge&logo=bootstrap)&nbsp;
+🔹 **XpertBackup**  
+Backup & Disaster Recovery platform built for enterprise environments that require high availability and data protection.
+
+🔹 **XpertDrive**  
+Secure file governance platform designed for companies that need compliance, auditability and data protection.
+
+🔹 **XpertScan**  
+Infrastructure assessment platform that analyzes security, resilience and operational risks.
 
 ### GitHub Analytics:
 
@@ -60,7 +60,6 @@ function dev(name, age, work) {
 
 ### Jhonny Borges on social media:
 
-<a href="https://www.linkedin.com/in/jhonny-borges/"><img src="https://img.shields.io/badge/jhonnyborges-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-<a href="mailto:jhonny.andreyv@gmail.com"><img src="https://img.shields.io/badge/-jhonny.andreyv@gmail.com-0078D4?style=for-the-badge&logo=gmail&logoColor=white"/>
-    </a>
-<a href="https://instagram.com/jhonnyborgesof"><img src="https://img.shields.io/badge/-@eu.jhonnyborges-E4405F?style=for-the-badge&logo=Instagram&logoColor=white"/></a>
+<a href="https://www.linkedin.com/in/jhonny-borges"><img src="https://img.shields.io/badge/LinkedIn-Jhonny%20Borges-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="mailto:jhonny.andreyv@gmail.com"><img src="https://img.shields.io/badge/-jhonny.andreyv@gmail.com-0078D4?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+<a href="https://instagram.com/eu.jhonnyborges"><img src="https://img.shields.io/badge/-@eu.jhonnyborges-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
