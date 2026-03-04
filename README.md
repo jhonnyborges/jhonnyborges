@@ -54,12 +54,12 @@ Infrastructure assessment platform that analyzes security, resilience and operat
 ### GitHub Analytics
 
 <p align="left">
-  <img height="165em" src="https://github-readme-stats.vercel.app/api?username=jhonnyborges&show_icons=true&hide_title=true&include_all_commits=true&count_private=true&theme=transparent" />
-  <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jhonnyborges&layout=compact&langs_count=8&theme=transparent" />
+  <img height="165em" src="https://github-readme-stats.vercel.app/api?username=jhonnyborges&show_icons=true&hide_title=true&include_all_commits=true&count_private=true&theme=github_dark" />
+  <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jhonnyborges&layout=compact&langs_count=8&theme=github_dark" />
 </p>
 
 <p align="left">
-  <img height="165em" src="https://github-readme-streak-stats.herokuapp.com/?user=jhonnyborges&theme=transparent" />
+  <img height="165em" src="https://github-readme-streak-stats.herokuapp.com/?user=jhonnyborges&theme=github-dark" />
 </p>
 
 ### Jhonny Borges on social media:
